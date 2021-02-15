@@ -1,4 +1,8 @@
-﻿
+﻿*{
+    margin: 10px;
+    padding: 0px;
+    font-family: 'Aldrich'
+}
 html, body {
     height: 100%;
     margin: 0;
