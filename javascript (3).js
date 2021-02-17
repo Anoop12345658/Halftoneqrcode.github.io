@@ -233,7 +233,7 @@ $(function() {
         image = this;
         $('#go').triggerHandler('click');
     }
-    imageColour.src='rohen.jpg'
+    imageColour.src='image.jpg'
     
     });
 })
